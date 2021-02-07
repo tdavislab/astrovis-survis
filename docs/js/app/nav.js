@@ -395,7 +395,7 @@ define(['jquery', 'd3', 'jquery.tooltipster', 'app/bib', 'app/selectors'], funct
         //drawing x axis
         let xAxisG = chart.append("g")
             .attr("class", "x axis")
-            .attr("transform", "translate(0," + height/2 + ")")
+            .attr("transform", "translate(0," + (height/2 - margin.top/2) + ")")
             .call(xAxis);
         xAxisG
             .append("text")
