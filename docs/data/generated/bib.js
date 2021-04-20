@@ -1,4 +1,21 @@
 ﻿define({ entries : {
+    "AragonCalvo2019": {
+        "author": "Miguel A. Aragon-Calvo",
+        "bdsk-url-1": "https://doi.org/10.1093/mnras/stz393",
+        "doi": "10.1093/mnras/stz393",
+        "eprint": "https://academic.oup.com/mnras/article-pdf/484/4/5771/27886890/stz393.pdf",
+        "issn": "0035-8711",
+        "journal": "Monthly Notices of the Royal Astronomical Society",
+        "keywords": "data analysis task:feature identification, viz technique:2D images, viz technique:3D rendering, astronomy topic:galactic, data source:observations",
+        "month": "02",
+        "number": "4",
+        "pages": "5771-5784",
+        "title": "Classifying the large-scale structure of the universe with deep neural networks",
+        "type": "article",
+        "url": "https://doi.org/10.1093/mnras/stz393",
+        "volume": "484",
+        "year": "2019"
+    },
     "ArcandJiangPrice2018": {
         "abstract": "Data on the Cassiopeia A supernova remnant from NASA and other sources have been rendered into a three-dimensional virtual reality (VR) and augmented reality (AR) programme, which is the first of its kind. This data-driven experience of a supernova remnant allows viewers to take a virtual walk inside the leftovers of a massive star that has exploded, select parts of the remnant to engage with and access descriptive texts on what the different materials are. This programme is based on a unique three-dimensional (3D) model of the 340-year old remains of a stellar explosion, made by combining data from NASA\u2019s Chandra X-ray Observatory, the Spitzer Space Telescope and ground-based facilities. A collaboration between the Smithsonian Astrophysical Observatory and Brown University allowed the 3D astronomical data collected on Cassiopeia A to be featured in the VR/AR programme, which is an innovation in digital technologies with public, education and research-based impacts.",
         "author": "Kimberly K. Arcand and E. Jiang and S. Price and Megan Watzke and T. Sgouros and P. Edmonds",
@@ -424,6 +441,23 @@
         "title": "{Uniview - Visualizing the Universe}",
         "type": "inproceedings",
         "year": "2010"
+    },
+    "LibeskindvandeWeygaertCantun2017": {
+        "author": "Noam I. Libeskind and Rien van de Weygaert and Marius Cautun and Bridget Falck and Elmo Tempel and Tom Abel and Mehmet Alpaslan and Miguel A. Aragon-Calvo and Jaime E. Forero-Romero and Roberto Gonzalez and Stefan Gottlober and Oliver Hahn and Wojciech A. Hellwing and Yehuda Hoffman and Bernard J. T. Jones and Francisco Kitaura and Alexander Knebe and Serena Manti and Mark Neyrinck and Sebastian E. Nuza and Nelson Padilla and Erwin Platen and Nesar Ramachandra and Aaron Robotham and Enn Saar and Sergei Shandarin and Matthias Steinmetz and Radu S. Stoica and Thierry Sousbie and Gustavo Yepes",
+        "bdsk-url-1": "https://doi.org/10.1093/mnras/stx1976",
+        "doi": "10.1093/mnras/stx1976",
+        "eprint": "https://academic.oup.com/mnras/article-pdf/473/1/1195/21407912/stx1976.pdf",
+        "issn": "0035-8711",
+        "keywords": "data analysis task:feature identification, viz technique:2D/3D plots, viz technique:3D rendering, astronomy topic:extragalactic, data source:simulations",
+        "month": "08",
+        "number": "1",
+        "pages": "1195-1217",
+        "series": "Monthly Notices of the Royal Astronomical Society",
+        "title": "Tracing the cosmic web",
+        "type": "article",
+        "url": "https://doi.org/10.1093/mnras/stx1976",
+        "volume": "473",
+        "year": "2017"
     },
     "LucianiCherinkaOliphant2014": {
         "abstract": "We introduce a web-based computing infrastructure to assist the visual integration, mining and interactive navigation of large-scale astronomy observations. Following an analysis of the application domain, we design a client-server architecture to fetch distributed image data and to partition local data into a spatial index structure that allows prefix-matching of spatial objects. In conjunction with hardware-accelerated pixel-based overlays and an online cross-registration pipeline, this approach allows the fetching, displaying, panning and zooming of gigabit panoramas of the sky in real time. To further facilitate the integration and mining of spatial and non-spatial data, we introduce interactive trend images-compact visual representations for identifying outlier objects and for studying trends within large collections of spatial objects of a given class. In a demonstration, images from three sky surveys (SDSS, FIRST and simulated LSST results) are cross-registered and integrated as overlays, allowing cross-spectrum analysis of astronomy observations. Trend images are interactively generated from catalog data and used to visually mine astronomy observations of similar type. The front-end of the infrastructure uses the web technologies WebGL and HTML5 to enable cross-platform, web-based functionality. Our approach attains interactive rendering framerates; its power and flexibility enables it to serve the needs of the astronomy community. Evaluation on three case studies, as well as feedback from domain experts emphasize the benefits of this visual approach to the observational astronomy field; and its potential benefits to large scale geospatial visualization in general.",
